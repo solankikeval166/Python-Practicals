@@ -57,4 +57,4 @@ for i in range(6):
 result = Result(rollNumber, name, marklist)
 
 print("Total marks:", result.totalMarks)
-print("Grade:", result.grade)
+print("Grade:", result.grade )
