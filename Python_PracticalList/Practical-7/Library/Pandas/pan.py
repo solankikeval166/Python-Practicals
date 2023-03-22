@@ -14,7 +14,6 @@ data = pd.read_csv(
 )
 print(data,end='\n\n')
 
-
 data2 = {"year": [2001, 2002, 2003, 2004], "student": [50, 75, 80, 100]}
 data2 = pd.DataFrame(data2)
 print(data2,end="\n\n")
