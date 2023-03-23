@@ -1,0 +1,6 @@
+file = open("demo.txt", "w+")
+file.write("Hello! \nThis is demo of Create file close it and then read it in python.")
+print("Name of file is :",file.name)
+print("Mod of file is :",file.mode)
+file.close()
+print("File is closed ? =>",file.closed)

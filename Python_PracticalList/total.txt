@@ -1,0 +1,3 @@
+'Keval's total marks of both subject is :  100
+Keval's total marks of both subject is :  170
+Poorv's total marks of both subject is :  165

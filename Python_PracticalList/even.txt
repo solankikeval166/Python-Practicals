@@ -1,0 +1,2 @@
+6 is even number.
+38 is even number.

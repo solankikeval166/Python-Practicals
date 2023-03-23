@@ -1,0 +1,2 @@
+Hello! 
+This is demo of Create file close it and then read it in python.

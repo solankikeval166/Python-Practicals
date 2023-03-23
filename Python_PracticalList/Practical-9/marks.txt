@@ -1,0 +1,4 @@
+'Rishabh's Marks of 1st subject is :  85
+'Rishabh's Marks of 2nd subject is :  90
+'Rishabh's Marks of 1st subject is :  85
+'Rishabh's Marks of 2nd subject is :  90

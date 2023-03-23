@@ -1,0 +1,3 @@
+25 is odd number.
+35 is odd number.
+45 is odd number.
